@@ -1,6 +1,6 @@
 # Instaran
 
-This repository contains the data and source code used for the research published on [Global Voices](ADD_LINK).
+This repository contains the data and source code used for the research published on [Global Voices](https://advocacy.globalvoicesonline.org/2015/05/07/new-research-iran-is-using-intelligent-censorship-on-instagram/).
 
 ## Technical analysis of the block
 
